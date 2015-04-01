@@ -1,2 +1,3 @@
 # css-styleguide
-CSS Style Guide: A reference for CSS styiling 
+CSS Style Guide: A reference for CSS styling
+<i>test</i>
